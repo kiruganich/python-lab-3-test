@@ -43,6 +43,10 @@ library_system/
 └── requirements.txt                 # Зависимости проекта
 ```
 
+
+![image](image.png)
+
+
 ## Установка
 
 ### 1. Клонируйте репозиторий:
