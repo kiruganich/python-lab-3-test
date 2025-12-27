@@ -44,7 +44,7 @@ library_system/
 ```
 
 
-![image](image.png)
+[image.png](https://github.com/kiruganich/python-lab-3-test/blob/e6bf01a6d5f07ef1e4814e26a6928650a79addf4/image.png)
 
 
 ## Установка
